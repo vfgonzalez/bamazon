@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "SQL based database using MySQL and node.js",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vfgonzalez/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vfgonzalez/bamazon/issues"
+  },
+  "homepage": "https://github.com/vfgonzalez/bamazon#readme",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "inquirer": "^5.2.0"
+  }
+}
