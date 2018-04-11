@@ -19,6 +19,7 @@
   "homepage": "https://github.com/vfgonzalez/bamazon#readme",
   "dependencies": {
     "figlet": "^1.2.0",
-    "inquirer": "^5.2.0"
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
   }
 }
