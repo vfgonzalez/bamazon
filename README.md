@@ -2,11 +2,11 @@
 *SQL based database using MySQL and node.js*
 
 ## Dependencies included:
-*mysql
-*inquirer
-*figlet(for fun)
+* mysql
+* inquirer
+* figlet(for fun)
 
-Bamazon is **CLI** (Command Line Interface) app that mimics a product search and inventory update, such as an online purchase. 
+Bamazon is a **CLI** (Command Line Interface) app that mimics a product search and inventory update, such as an online purchase. 
 
 In Short, here are the steps taken to begin:
 
